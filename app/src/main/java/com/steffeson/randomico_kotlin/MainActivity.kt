@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         btnRandom.setOnClickListener(this)
         txtNumber.setOnClickListener(this)
     }
-
+//
 
     override fun onClick(v: View?) {
         if (v?.id == R.id.btnRandom || v?.id == R.id.txtNumber) {
