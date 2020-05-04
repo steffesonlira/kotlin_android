@@ -1,0 +1,2 @@
+rootProject.name='Randomico_kotlin'
+include ':app'
